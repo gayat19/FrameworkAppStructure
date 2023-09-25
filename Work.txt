@@ -1,0 +1,30 @@
+Large Object Memory allocation
+
+https://devblogs.microsoft.com/dotnet/large-object-heap-uncovered-from-an-old-msdn-article/
+
+   /// <summary>
+        /// Adds a new customer to the customer table
+        /// </summary>
+        /// <param name="item">Customer object with name and age</param>
+        /// <returns>the whole customer object with the generated id</returns>
+
+from Gayathri Mahadevan to everyone:    10:07 AM
+https://codeshare.io/G3
+from Gayathri Mahadevan to everyone:    10:32 AM
+https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/large-object-heap
+from Gayathri Mahadevan to everyone:    10:33 AM
+https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/workstation-server-gc
+from Gayathri Mahadevan to everyone:    10:40 AM
+https://learn.microsoft.com/en-us/dotnet/api/system.gc.suppressfinalize?view=net-7.0
+from Gayathri Mahadevan to everyone:    12:43 PM
+https://learn.microsoft.com/en-us/sql/relational-databases/tutorial-signing-stored-procedures-with-a-certificate?view=sql-server-ver16
+from Gayathri Mahadevan to everyone:    12:45 PM
+https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.hmacsha512?view=net-7.0
+from Gayathri Mahadevan to everyone:    12:57 PM
+https://learn.microsoft.com/en-Us/dotnet/csharp/programming-guide/indexers/
+from Gayathri Mahadevan to everyone:    3:02 PM
+https://learn.microsoft.com/en-US/dotnet/csharp/programming-guide/delegates/
+from Gayathri Mahadevan to everyone:    4:29 PM
+https://learn.microsoft.com/en-us/aspnet/web-forms/overview/data-access/advanced-data-access-scenarios/protecting-connection-strings-and-other-configuration-information-cs
+from Gayathri Mahadevan to everyone:    5:51 PM
+https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/ms228124(v=vs.100)

@@ -1,0 +1,11 @@
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerBL\bin\Debug\CustomerBL.dll
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerBL\bin\Debug\CustomerBL.pdb
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerBL\bin\Debug\CustomerDALibrary.dll
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerBL\bin\Debug\CustomerModelLibrary.dll
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerBL\bin\Debug\CustomerDALibrary.pdb
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerBL\bin\Debug\CustomerModelLibrary.pdb
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerBL\obj\Debug\CustomerBL.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerBL\obj\Debug\CustomerBL.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerBL\obj\Debug\CustomerBL.csproj.CopyComplete
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerBL\obj\Debug\CustomerBL.dll
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerBL\obj\Debug\CustomerBL.pdb

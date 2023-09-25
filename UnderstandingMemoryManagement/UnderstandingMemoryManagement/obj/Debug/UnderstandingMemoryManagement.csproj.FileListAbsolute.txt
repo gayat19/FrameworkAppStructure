@@ -1,0 +1,7 @@
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\UnderstandingMemoryManagement\UnderstandingMemoryManagement\bin\Debug\UnderstandingMemoryManagement.exe.config
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\UnderstandingMemoryManagement\UnderstandingMemoryManagement\bin\Debug\UnderstandingMemoryManagement.exe
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\UnderstandingMemoryManagement\UnderstandingMemoryManagement\bin\Debug\UnderstandingMemoryManagement.pdb
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\UnderstandingMemoryManagement\UnderstandingMemoryManagement\obj\Debug\UnderstandingMemoryManagement.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\UnderstandingMemoryManagement\UnderstandingMemoryManagement\obj\Debug\UnderstandingMemoryManagement.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\UnderstandingMemoryManagement\UnderstandingMemoryManagement\obj\Debug\UnderstandingMemoryManagement.exe
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\UnderstandingMemoryManagement\UnderstandingMemoryManagement\obj\Debug\UnderstandingMemoryManagement.pdb

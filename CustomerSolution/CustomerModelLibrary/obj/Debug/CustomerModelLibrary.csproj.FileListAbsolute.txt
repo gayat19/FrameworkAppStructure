@@ -1,0 +1,6 @@
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerModelLibrary\bin\Debug\CustomerModelLibrary.dll
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerModelLibrary\bin\Debug\CustomerModelLibrary.pdb
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerModelLibrary\obj\Debug\CustomerModelLibrary.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerModelLibrary\obj\Debug\CustomerModelLibrary.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerModelLibrary\obj\Debug\CustomerModelLibrary.dll
+D:\Data\d drive\Corp\TheKnowledgeAcadamy\25Sep23Triyam\CustomerSolution\CustomerModelLibrary\obj\Debug\CustomerModelLibrary.pdb
